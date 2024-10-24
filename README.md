@@ -36,4 +36,10 @@ layout:
 
 ## Whitepaper
 
-Summarize
+[Shahnameh Community Engagement](https://shahnameh-ton.github.io/whitepaper/ShahnamehCommunityEngagement.pdf)
+
+[Shahnameh T2E Marketing & Partnership](https://shahnameh-ton.github.io/whitepaper/ShahnamehT2EMarketingandPartnership.pdf)
+
+[Shahnameh T2E Pitch Deck](https://shahnameh-ton.github.io/whitepaper/ShahnamehT2EPitchDeck.pdf)
+
+[Shahnameh T2E White Paper](https://shahnameh-ton.github.io/whitepaper/ShahnamehT2EWhitePaper.pdf)
