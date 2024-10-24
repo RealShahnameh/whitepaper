@@ -2,15 +2,15 @@
 
 REAL is the Shahnameh game's utility token, linked to the Iranian Rial. Starting with 227 tokens, the supply grows with players!
 
-* **Token Name:**
-* **Token Blockchain:**
-* **Total Supply:**
+* **Token Name:** RealShahnameh (REAL)
+* **Token Blockchain:** TON
+* **Total Supply:** 227,000,000,000
 
 Upon the official distribution of the $REAL token, the detailed contract address will be announced.
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/unnamed.png" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/200x200.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

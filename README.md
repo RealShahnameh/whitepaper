@@ -1,5 +1,4 @@
 ---
-description: Introduction about "Shahnameh"
 cover: .gitbook/assets/Screenshot 2024-10-21 054819.png
 coverY: 63.630589760207386
 layout:
@@ -24,13 +23,11 @@ layout:
 
 ## Useful Links
 
-* Official website:
-* Instagram:
-* X:
-* TG:
-* Discord:
-* Facebook:
-* Github:
+* **Official website:**           [https://shahnameh-bot.io/](https://shahnameh-bot.io/)
+* **Instagram:**                        [https://www.instagram.com/shahnameh.game](https://www.instagram.com/shahnameh.game)
+* **X:**                                       [ ](https://x.com/shahnamehgamefi) [https://x.com/shahnamehgamefi](https://x.com/shahnamehgamefi)
+* **TG:**                                      [https://t.me/Shahnameh\_news](https://t.me/Shahnameh\_news)
+* **Github:**                               [https://github.com/Shahnameh-TON/whitepaper](https://github.com/Shahnameh-TON/whitepaper)
 
 
 
